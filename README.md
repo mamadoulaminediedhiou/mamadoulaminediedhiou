@@ -1,6 +1,5 @@
 - 👋 salut, moi c’est Mamadou Lamine DIEDHIOU 
--✨️ Étudiant en L1 informatique à l’univer
-sité de sorbonne Paris-Nord. 
+-✨️ Étudiant en L1 informatique à l’université de sorbonne Paris-Nord. 
 - ✨️J’apprend actuellement les langages :
 -C,Html/css,Ocaml,python.
 -
